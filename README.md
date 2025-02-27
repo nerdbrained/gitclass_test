@@ -11,4 +11,4 @@ We have lots of genetic data from *Spratelloides*! But they're too big to upload
 
 I like GitHub!
 
-It's dope!
+It's cool!
